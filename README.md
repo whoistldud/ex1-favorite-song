@@ -10,4 +10,4 @@ target file : favorite_song.txt
 으로 현재 있는 버전에 본인의 정보를 추가하여 PR (pull request) 주세요
 
 
-code freeze : 10/12 (수) 23:59
+code freeze : 10/16 (일) 23:59
